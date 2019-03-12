@@ -8,3 +8,8 @@ All exercises for learning Haskell by [Haskell for Mac](http://learn.hfm.io) in 
 
 1. The Haskell for Mac [App](http://haskellformac.com/) is NOT required. 
 2. `IHaskell` is currently not supported on Windows. (Please check [their website](https://github.com/gibiansky/IHaskell) for latest update.) 
+
+Do checkout [other resources](http://learn.hfm.io/books.html) as well.
+
+
+## Please star this repository if it helped you in learning faster and better!
